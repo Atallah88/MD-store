@@ -1,11 +1,6 @@
 # MD-store
 <html>
 <head>
-<style>
-body {
-  font-family: 'Brush Script MT', cursive;
-}
-</style>
 
 </head>
 

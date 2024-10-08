@@ -1,14 +1,11 @@
 # MD-store
 <html>
 <head>
-
 </head>
-
 <body>
 <h1 style="text-align:center;"><i>Atallah</i></h1>
 <hr>
-<hr> 
-![image alt](https://github.com/Atallah88/MD-store/blob/2d9cfdd70e9a8c3176a0e6db913fe4403100e231/images.png)  
+<hr>  
 <pre>
                               <a href="https://www.instagram.com/ia_di8"><img src="https://github.com/Atallah88/MD-store/blob/2d9cfdd70e9a8c3176a0e6db913fe4403100e231/images.png" alt="ia_di8" style="width:42px;height:42px;"></a>
 <hr>                             
